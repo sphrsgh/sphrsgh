@@ -8,11 +8,11 @@ Sepehr - 02.02.02 - Software Engineering Student
 - **X**: [@sphrsgh](http://x.com/@sphrsgh)
 
 ### Languages:
-| Python | Dart | C++ | C# |
-<!--
+| Python | Dart | Java | C# |
 |----------|----------|----------|-----|
+<!--
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
--->
+
 
 
 
@@ -39,6 +39,8 @@ Sepehr - 02.02.02 - Software Engineering Student
 <p align="center">
  <img width="1000" src="https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake"/>
 </p>
+
+-->
 
 <!--
 **sphrsgh/sphrsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
