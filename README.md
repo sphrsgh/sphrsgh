@@ -4,8 +4,8 @@ I'm Sepehr
 ## Contact 📱
 
 - **gmail**: sphrsgh@gmail.com
-- **Instagram**: [@sphrsgh](instagram.com/sphrsgh)
-- **X**: [@sphrsgh](x.com/@sphrsgh)
+- **Instagram**: [@sphrsgh](http://instagram.com/sphrsgh)
+- **X**: [@sphrsgh](http://x.com/@sphrsgh)
 
 <!--
 **sphrsgh/sphrsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
