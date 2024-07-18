@@ -4,7 +4,7 @@ I'm Sepehr
 ## Contact 📱
 
 - **gmail**: sphrsgh@gmail.com
-- **Instagram**: [!link](instagram.com/sphrsgh)
+- **Instagram**: [!@sphrsgh](instagram.com/sphrsgh)
 - **X**: x.com/@sphrsgh
 
 <!--
