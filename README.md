@@ -1,5 +1,7 @@
 ## Hi there 👋
-I'm Sepehr
+Sepehr
+02.02.02
+Software Engineering Student
 
 ## Contact 📱
 
