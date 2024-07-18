@@ -7,7 +7,7 @@ Sepehr - 02.02.02 - Software Engineering Student
 - **Instagram**: [@sphrsgh](http://instagram.com/sphrsgh)
 - **X**: [@sphrsgh](http://x.com/@sphrsgh)
 
-### Languages:
+## Languages 💻
 | Python | Dart | Java | C# |
 |----------|----------|----------|-----|
 <!--
