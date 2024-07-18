@@ -1,7 +1,5 @@
 ## Hi there 👋
-Sepehr
-02.02.02
-Software Engineering Student
+Sepehr - 02.02.02 - Software Engineering Student
 
 ## Contact 📱
 
