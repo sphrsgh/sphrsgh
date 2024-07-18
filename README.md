@@ -35,7 +35,7 @@ Sepehr - 02.02.02 - Software Engineering Student
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
 <!--
