@@ -3,7 +3,7 @@ Sepehr - 02.02.02 - Software Engineering Student
 
 ## Contact 📱
 
-- **gmail**: sphrsgh@gmail.com
+- **gmail**: sepehrsagh@gmail.com
 - **Instagram**: [@sphrsgh](http://instagram.com/sphrsgh)
 - **X**: [@sphrsgh](http://x.com/@sphrsgh)
 
